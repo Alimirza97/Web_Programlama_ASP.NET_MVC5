@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Web_Programlama_Odev.Models.Dersler>
+@using Web_Programlama_Odev.Models;
+
+@{
+    ViewBag.Title = "JavaScript";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<center>
+    <br /><br /><br />
+    @{
+        LeDemyDb db = new LeDemyDb();
+    }
+                <center>
+                    @foreach (var item in Model)
+                    {
+
+                        var deger = db.Kategoris.Where(i => i.Kategori_id == item.Kategori_id).SingleOrDefault();
+                        
+                            <div class="col-md-4">
+                                <div class="post post-thumb">
+                                    <a class="post-img" href="blog-post.html"><img src="/Content/img/@item.Resim" alt=""></a>
+                                    <div class="post-body">
+                                        <div class="post-meta">
+                                            <a class="post-category cat-3" href="category.html">@deger.Kategori_Adi</a>
+                                            <span class="post-date">@item.EklenmeTarihi</span>
+                                        </div>
+                                        <h3 class="post-title">
+                                            @Html.ActionLink(@item.Ders_Adi, "DersDetay", new { id = item.Ders_id })
+                                        </h3>
+                                    </div>
+                                </div>
+                            </div>
+                     }
+</center>
+    </center>

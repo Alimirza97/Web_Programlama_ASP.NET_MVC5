@@ -1,0 +1,53 @@
+﻿@model IEnumerable<Web_Programlama_Odev.Models.Dersler>
+
+@{
+    ViewBag.Title = "DersListele";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Ders_Adi)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Kategori_id)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Video)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Resim)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.IzlenmeSayisi)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Ders_Adi)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Kategori_id)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Video)
+            <!-- <video src="/Content/video/@item.Video" controls="controls">Tarayıcınız video etiketini desteklemiyor!</video>-->
+        </td>
+        <td>
+            <img src="/Content/img/@item.Resim" width="100" height="100" />
+        </td>
+        
+        <td>
+            @Html.DisplayFor(modelItem => item.IzlenmeSayisi)
+        </td>
+        <td>
+            @Html.ActionLink("Düzenle", "DersDuzenle", new { id=item.Ders_id }) |
+            @Html.ActionLink("Sil", "DersSil", new { id=item.Ders_id })
+        </td>
+    </tr>
+}
+
+</table>

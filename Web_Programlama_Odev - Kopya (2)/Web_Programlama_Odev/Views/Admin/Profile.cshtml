@@ -1,0 +1,66 @@
+﻿@model Web_Programlama_Odev.Models.Uyeler
+
+@{
+    ViewBag.Title = "Profile";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<h2>Profile</h2>
+
+<div>
+    <h4>Uyeler</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Yetkiler.YetkiTuru)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Yetkiler.YetkiTuru)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UyeEmail)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UyeEmail)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UyeAd)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UyeAd)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UyeSoyad)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UyeSoyad)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.UyeSifre)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UyeSifre)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.KullaniciAdi)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.KullaniciAdi)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Güncelle", "Edit", new { id = Model.UyeId }) 
+</p>

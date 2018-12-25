@@ -1,0 +1,41 @@
+﻿@model Web_Programlama_Odev.Models.Dersler
+@using Web_Programlama_Odev.Models;
+
+@{
+    ViewBag.Title = "DersDetay";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+@{ 
+    LeDemyDb db = new LeDemyDb();
+    var deger = db.Kategoris.Where(i => i.Kategori_id == Model.Kategori_id).SingleOrDefault();
+}
+<div>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>Ders Adı</dt>
+        <dd>
+            @Html.DisplayFor(model => model.Ders_Adi)
+        </dd><br />
+        <dt>Kategori Adı</dt>
+        <dd>
+            @deger.Kategori_Adi
+        </dd><br />
+        <dt>Ders Videosu</dt>
+        <dd>
+            <video src="/Content/video/@Model.Video" controls="controls" width="500" height="500" >Tarayıcınız video etiketini desteklemiyor!</video>
+        </dd><br />
+        <dt>Ders Resmi</dt>
+        <dd>
+            <img src="/Content/img/@Model.Resim" width="200" height="200" />
+        </dd><br />
+        <dt>İzlenme Sayisi</dt>
+        <dd>
+            @Html.DisplayFor(model => model.IzlenmeSayisi)
+        </dd><br />
+        <dt>Eklenme Tarihi</dt>
+        <dd>
+            @Html.DisplayFor(model => model.EklenmeTarihi)
+        </dd>
+
+    </dl>
+</div>

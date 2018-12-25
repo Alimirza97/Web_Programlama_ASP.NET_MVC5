@@ -1,0 +1,156 @@
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\Web_Programlama_Odev.dll.config
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\Web_Programlama_Odev.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\Web_Programlama_Odev.pdb
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\csc.exe
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\csc.exe.config
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\csc.rsp
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\csi.exe
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\csi.exe.config
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\csi.rsp
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.AppContext.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Console.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.IO.Compression.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Security.Claims.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.ValueTuple.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\vbc.exe
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\vbc.exe.config
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\vbc.rsp
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\VBCSCompiler.exe
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Helpers.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Mvc.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Razor.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Webpages.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Webpages.Razor.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Razor.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Webpages.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Webpages.Razor.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Helpers.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\System.Web.Mvc.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.csproj.CopyComplete
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.pdb
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\EntityFramework.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\EntityFramework.SqlServer.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\EntityFramework.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\EntityFramework.SqlServer.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\tr\Web_Programlama_Odev.resources.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.Resources.Resource.tr.resources
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.csproj.GenerateResource.cache
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\obj\Debug\tr\Web_Programlama_Odev.resources.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\bin\en\Web_Programlama_Odev.resources.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.Resources.Resource.en.resources
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev\Web_Programlama_Odev\obj\Debug\en\Web_Programlama_Odev.resources.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\Web_Programlama_Odev.dll.config
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\Web_Programlama_Odev.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\Web_Programlama_Odev.pdb
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\csc.exe
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\csc.exe.config
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\csc.rsp
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\csi.exe
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\csi.exe.config
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\csi.rsp
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.AppContext.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Console.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.IO.Compression.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Security.Claims.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Threading.Thread.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.ValueTuple.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\vbc.exe
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\vbc.exe.config
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\vbc.rsp
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\VBCSCompiler.exe
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\EntityFramework.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\EntityFramework.SqlServer.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Helpers.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Mvc.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Razor.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Webpages.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Webpages.Razor.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\EntityFramework.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\EntityFramework.SqlServer.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Razor.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Webpages.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Webpages.Razor.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Helpers.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\System.Web.Mvc.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.csprojAssemblyReference.cache
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.csproj.CoreCompileInputs.cache
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.csproj.CopyComplete
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.dll
+C:\Users\Elimirze\Desktop\Web_Programlama_Odev - Kopya (2)\Web_Programlama_Odev\obj\Debug\Web_Programlama_Odev.pdb

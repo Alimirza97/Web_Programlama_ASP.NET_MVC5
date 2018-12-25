@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "d:\\Elimirze\\2. Sınıf 1. Dönem\\Web Programlama\\Odev\\Web_Programlama_Odev\\Web_Programlama_Odev\\Web_Programlama_Odev.csproj",
+  "TargetFramework": "v4.6.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
